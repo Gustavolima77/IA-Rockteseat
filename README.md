@@ -13,4 +13,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
- Esse projeto foi feito durante um evento da rocketseat, com ensinamentos de diversas tecnologias para a emplantaçao da IA.
+ Esse projeto foi feito durante um evento da rocketseat, com ensinamentos de diversas tecnologias para a emplementação da IA.
